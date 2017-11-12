@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{42093876-3A28-46D1-8BA5-C9893BFD88F2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Login/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="Login/LoginPage.xaml.cs" Line="32" Column="14" />
+      <File FileName="Login/LoginPage.xaml" Line="51" Column="1" />
+      <File FileName="Login/BusinessLogic/Utilities/String.cs" Line="3" Column="1" />
+      <File FileName="Login/BusinessLogic/Authentication.cs" Line="16" Column="13" />
+      <File FileName="Login/BusinessLogic/Utilities/Resource_ENG.cs" Line="34" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Login.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.965CE562-99DC-4215-A877-9E3FDEFEBF64">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Login.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
