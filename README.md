@@ -1,2 +1,2 @@
-# Login-Xamarin.Forms-
+# Login-Xamarin.Forms
 Simple Login application
