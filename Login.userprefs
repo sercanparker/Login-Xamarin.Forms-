@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{42093876-3A28-46D1-8BA5-C9893BFD88F2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Login/LoginPage.xaml.cs">
     <Files>
-      <File FileName="Login/LoginPage.xaml.cs" Line="32" Column="14" />
-      <File FileName="Login/LoginPage.xaml" Line="51" Column="1" />
-      <File FileName="Login/BusinessLogic/Utilities/String.cs" Line="3" Column="1" />
-      <File FileName="Login/BusinessLogic/Authentication.cs" Line="16" Column="13" />
-      <File FileName="Login/BusinessLogic/Utilities/Resource_ENG.cs" Line="34" Column="32" />
+      <File FileName="Login/LoginPage.xaml.cs" Line="20" Column="28" />
+      <File FileName="Login/LoginPage.xaml" Line="26" Column="16" />
+      <File FileName="Login/CustomRender/CustomEntry.cs" Line="11" Column="10" />
+      <File FileName="Droid/CustomRender.Droid/CustomEntryRender.cs" Line="16" Column="10" />
+      <File FileName="iOS/CustomerRender.iOS/CustomEntryRender.cs" Line="13" Column="13" />
+      <File FileName="Login/obj/Debug/Login.LoginPage.xaml.g.cs" Line="17" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

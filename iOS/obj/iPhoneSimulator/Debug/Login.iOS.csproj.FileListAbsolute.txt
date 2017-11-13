@@ -161,11 +161,11 @@
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
-/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
-/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/Login.iOS.csprojResolveAssemblyReference.cache
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/Login.iOS.csproj.CoreCompileInputs.cache
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/Login.iOS.exe
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/Login.iOS.pdb
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.1/actool/_PartialAppManifest.items
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.1/optimized/

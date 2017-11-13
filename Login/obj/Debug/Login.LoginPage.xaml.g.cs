@@ -11,20 +11,20 @@
 namespace Login {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/delta/GitHub/Login.XamarinForms/Login/Login/LoginPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Login/LoginPage.xaml")]
     public partial class LoginPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Editor EmailEditor;
+        private global::Xamarin.Forms.Entry EmailCustomEntry;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Editor PasswordEditor;
+        private global::Xamarin.Forms.Entry PasswordCustomEntry;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(LoginPage));
-            EmailEditor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Editor>(this, "EmailEditor");
-            PasswordEditor = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Editor>(this, "PasswordEditor");
+            EmailCustomEntry = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "EmailCustomEntry");
+            PasswordCustomEntry = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Entry>(this, "PasswordCustomEntry");
         }
     }
 }

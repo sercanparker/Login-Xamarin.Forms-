@@ -17,8 +17,8 @@ namespace Login
 
         void Handle_Login_Clicked(object sender, System.EventArgs e)
         {
-            String email = EmailEditor.Text;
-            String password = PasswordEditor.Text;
+            String email = EmailCustomEntry.Text;
+            String password = PasswordCustomEntry.Text;
 
             if (String.IsNullOrEmpty(email) || String.IsNullOrEmpty(password))
             {

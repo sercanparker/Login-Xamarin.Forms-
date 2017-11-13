@@ -2,7 +2,7 @@
 <ContentPage 
     xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-    xmlns:local="clr-namespace:Login" 
+    xmlns:local="clr-namespace:Login.CustomRender;assembly=Login" 
     x:Class="Login.LoginPage">
 
     <StackLayout
@@ -11,39 +11,22 @@
         >
 
         <!-- 
-        TODO : Add placeholders for editors.
-        TODO : Make text of Editor as Center Align.
+            TODO : Make text of Editor as Center Align.
         -->
-        <Editor
-            x:Name = "EmailEditor"
-            Keyboard="Text"
-            Text="Enter Your E-Mail"
+        <Entry
+            x:Name = "EmailCustomEntry"
+            Keyboard = "Text"
+            Placeholder = "Enter Your E-Mail"
         />
-        <Editor
-            x:Name = "PasswordEditor"
-            Text="Enter Your Password"
-            Keyboard="Text"
-        />
+        <Entry
+            x:Name = "PasswordCustomEntry"
+            Placeholder = "Enter Your Password"
+           
+            Keyboard="Text"/>
         <Button
             Text = "Login"
-            Clicked = "Handle_Login_Clicked" 
-        />
-        
-        <!--
-        <StackLayout
-            Orientation="Horizontal"
-            BackgroundColor="Yellow"
-            HorizontalOptions="FillAndExpand">
-        </StackLayout>
-        <StackLayout
-            Orientation="Horizontal"
-            BackgroundColor="Yellow">
-        </StackLayout>
-        <StackLayout
-            Orientation="Horizontal"
-            BackgroundColor="Yellow">
-        </StackLayout>
-        -->
+            Clicked = "Handle_Login_Clicked"/>
+
     </StackLayout>
 
     
