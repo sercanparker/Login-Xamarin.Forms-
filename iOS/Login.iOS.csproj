@@ -104,9 +104,21 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-29x29%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-29x29%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-29x29%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-40x40%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-40x40%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-40x40%403x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-57x57%401x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-57x57%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_launcher.imageset\Icon-App-83.5x83.5%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Assets.xcassets\ic_launcher.imageset\" />
+    <Folder Include="Assets.xcassets\ic_launcher.imageset\" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
@@ -119,6 +131,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="CustomerRender.iOS\CustomEntryRender.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.4.0.74863\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.4.0.74863\build\netstandard1.0\Xamarin.Forms.targets')" />

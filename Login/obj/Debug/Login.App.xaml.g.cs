@@ -11,7 +11,7 @@
 namespace Login {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/delta/Projects/Login/Login/App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Login/App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

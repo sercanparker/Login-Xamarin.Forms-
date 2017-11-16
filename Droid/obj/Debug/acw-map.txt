@@ -2,6 +2,10 @@ Login.Droid.MainActivity, Login.Droid;md56756202d439c4b7765b22bc9d0cddf32.MainAc
 Login.Droid.MainActivity, Login.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56756202d439c4b7765b22bc9d0cddf32.MainActivity
 Login.Droid.MainActivity;md56756202d439c4b7765b22bc9d0cddf32.MainActivity
 login.droid.MainActivity;md56756202d439c4b7765b22bc9d0cddf32.MainActivity
+Login.Droid.CustomRender.Droid.CustomEntryRender, Login.Droid;md5372e1e36bc1e8910d81fd4de386b7c9b.CustomEntryRender
+Login.Droid.CustomRender.Droid.CustomEntryRender, Login.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5372e1e36bc1e8910d81fd4de386b7c9b.CustomEntryRender
+Login.Droid.CustomRender.Droid.CustomEntryRender;md5372e1e36bc1e8910d81fd4de386b7c9b.CustomEntryRender
+login.droid.customrender.droid.CustomEntryRender;md5372e1e36bc1e8910d81fd4de386b7c9b.CustomEntryRender
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor

@@ -1,12 +1,8 @@
 ﻿<Properties StartupConfiguration="{42093876-3A28-46D1-8BA5-C9893BFD88F2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Login/LoginPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Login/LoginPage.xaml.cs" Line="20" Column="28" />
-      <File FileName="Login/LoginPage.xaml" Line="26" Column="16" />
-      <File FileName="Login/CustomRender/CustomEntry.cs" Line="11" Column="10" />
-      <File FileName="Droid/CustomRender.Droid/CustomEntryRender.cs" Line="16" Column="10" />
-      <File FileName="iOS/CustomerRender.iOS/CustomEntryRender.cs" Line="13" Column="13" />
-      <File FileName="Login/obj/Debug/Login.LoginPage.xaml.g.cs" Line="17" Column="9" />
+      <File FileName="Login/LoginPage.xaml" Line="55" Column="28" />
+      <File FileName="iOS/CustomerRender.iOS/CustomEntryRender.cs" Line="16" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -14,7 +10,8 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Login.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.965CE562-99DC-4215-A877-9E3FDEFEBF64">
+  <MonoDevelop.Ide.ItemProperties.Login.Droid PreferredExecutionTarget="Android.Z5EY9PDMMNQSVG8L" />
+  <MonoDevelop.Ide.ItemProperties.Login.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BB9C816A-D489-43D6-BE5D-76EEA255E329">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Login.iOS>
   <MultiItemStartupConfigurations />

@@ -42,6 +42,7 @@
     <Compile Include="BusinessLogic\Utilities\String.cs" />
     <Compile Include="BusinessLogic\Authentication.cs" />
     <Compile Include="BusinessLogic\Utilities\Resource_ENG.cs" />
+    <Compile Include="CustomRender\CustomEntry.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

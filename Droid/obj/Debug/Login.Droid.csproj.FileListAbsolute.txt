@@ -151,3 +151,7 @@
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/R.cs.flag
 /Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/uploadflags.txt
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/res/drawable-xxhdpi/ic_launcher.png
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/res/drawable-xhdpi/ic_launcher.png
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/res/drawable-hdpi/ic_launcher.png
+/Users/delta/GitHub/Login.XamarinForms/Login-Xamarin.Forms-/Droid/obj/Debug/res/drawable/ic_launcher.png
